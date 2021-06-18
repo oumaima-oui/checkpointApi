@@ -1,0 +1,40 @@
+body {
+  background-color:blanchedalmond;
+}
+.user_container{
+  border-bottom: double rgb(225,133,34);
+  height: 400px;
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 26%;
+  justify-content:space-around;
+}
+.user_name{
+  text-align: center;
+  font-size: 20px;
+  font-variant: 1.4em;
+  color: blue; 
+}
+.user_information{
+  color:black;
+  height: 300px;
+  font-size: 20px;
+}
+.user-email{
+  border-bottom: crimson;
+}
+.email{
+  border-right: 1px solid rgb(34, 93, 255);
+  margin-right: 20px;
+
+}
+
+.street{
+  border-right: 1px solid rgba(34, 74, 255, 0.993);
+  margin-right: 20px;
+
+}
+.title{
+  color: rgb(9, 75, 255);
+}
